@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html>
+  <header>
+    <title>Jason's Calculator</title>
+    <link rel="stylesheet" href="style.css" />
+  </header>
+
+  <body>
+    <fieldset class="boundary-line">
+      <input class="calculation-display" type="text" onkeydown="return false" />
+
+      <div class="buttons-grid">
+        <button class="clear" onclick="ClearDisplay()">C</button>
+        <button class="clear" onclick="RemoveLast()">&mapstoleft;</button>
+        <button class="operator" onclick="AddBracket()">()</button>
+        <button class="operator" onclick="AddString('/','&divide')">
+          &divide;
+        </button>
+
+        <button class="num" onclick="AddString(7)">7</button>
+        <button class="num" onclick="AddString(8)">8</button>
+        <button class="num" onclick="AddString(9)">9</button>
+        <button class="operator" onclick="AddString('*','&times;')">
+          &times;
+        </button>
+
+        <button class="num" onclick="AddString(4)">4</button>
+        <button class="num" onclick="AddString(5)">5</button>
+        <button class="num" onclick="AddString(6)">6</button>
+        <button class="operator" onclick="AddString('-','&minus;')">
+          &minus;
+        </button>
+
+        <button class="num" onclick="AddString(1)">1</button>
+        <button class="num" onclick="AddString(2)">2</button>
+        <button class="num" onclick="AddString(3)">3</button>
+        <button class="operator" onclick="AddString('+','&plus;')">
+          &plus;
+        </button>
+
+        <button class="num" onclick>&plusmn;</button>
+        <button class="num" onclick="AddString(0)">0</button>
+        <button class="num">.</button>
+        <button class="equal" onclick="Calculate()">&equals;</button>
+      </div>
+    </fieldset>
+
+    <script src="script.js"></script>
+  </body>
+</html>
