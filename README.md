@@ -13,4 +13,4 @@ Simple calculator
 
 ---
 
-![Demo](https://github.com/Mecha-Coder/Learn-Web-Dev/blob/main/Demo/Simple-Todo-List.gif)
+![Demo](https://github.com/Mecha-Coder/Learn-Web-Dev/blob/main/Demo/Calculator.gif)
