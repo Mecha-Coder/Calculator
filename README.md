@@ -5,7 +5,7 @@ Simple calculator
 ---
 
 #### 🚀 Features
-- Basic arithmetic: ➕ ➖ ✖️ ➗
+- Perform basic arithmetic: ➕ ➖ ✖️ ➗
 - Clear and delete input
 
 #### 🧩 Coming Soon
