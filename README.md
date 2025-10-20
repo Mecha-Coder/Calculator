@@ -18,8 +18,8 @@ Simple calculator
    ```bash
    git clone https://github.com/Mecha-Coder/Calculator
    ```
-2. Navigate to the Calculator folder
-3. Open the `index.html` file in your browser
+2. Navigate or `cd` into the folder
+3. Then, open the `index.html` file in your browser
 
 ---
 
