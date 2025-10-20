@@ -1,4 +1,4 @@
-### 📝 Calculator
+### 🧮 Calculator
 
 Simple calculator
 
@@ -8,7 +8,7 @@ Simple calculator
 - Basic arithmetic: ➕ ➖ ✖️ ➗
 - Clear and delete input
 
-#### 🚀 Coming Soon
+#### 🧩 Coming Soon
 - Add negative value and deminal functionality
 
 ---
