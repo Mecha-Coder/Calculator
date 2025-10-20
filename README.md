@@ -9,7 +9,7 @@ Simple calculator
 - Clear and delete input
 
 #### 🧩 Coming Soon
-- Add negative value and decimal calculation
+- Support negative value and decimal calculation
 
 ---
 
