@@ -2,6 +2,8 @@
 
 Simple calculator
 
+![Demo](https://github.com/Mecha-Coder/Learn-Web-Dev/blob/main/Demo/Calculator.gif)
+
 ---
 
 #### 🚀 Features
@@ -21,6 +23,3 @@ Simple calculator
 2. Navigate or `cd` into the folder
 3. Then, open the `index.html` file in your browser
 
----
-
-![Demo](https://github.com/Mecha-Coder/Learn-Web-Dev/blob/main/Demo/Calculator.gif)
